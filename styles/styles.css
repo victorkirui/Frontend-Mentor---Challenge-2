@@ -72,8 +72,8 @@ nav ul li:hover{
     content:"";
     width: 0;
     height: 0;
-    border-bottom: 100px solid #fff;
-    border-left: 100px solid transparent;
+    border-bottom: 30px solid #fff;
+    border-left: 50px solid transparent;
     position:absolute;
     top:-25px;
     right:0;
